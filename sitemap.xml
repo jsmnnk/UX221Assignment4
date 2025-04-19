@@ -12,12 +12,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/the-meaning-behind-gemstones-what-your-birthstone-says-about-you/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-to-clean-store-your-jewelry/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/jewelry-gift-guide-for-every-occasion/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
         </loc>
     </url>
     <url>
