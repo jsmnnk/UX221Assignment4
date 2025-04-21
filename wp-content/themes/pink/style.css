@@ -11,8 +11,8 @@ Template:       twentytwentyone
     font-size: var(--global--font-size-base);
     font-weight: normal;
     color: white (--global--color-primary);
-    text-align: left;
     background-color: #7d7b46;
+  }
 
   a:hover {
     color: #9f9161;
@@ -22,3 +22,4 @@ Template:       twentytwentyone
     background-color: #faf4ed;
     border-bottom: 1px solid #e0cfc2;
   }
+  
