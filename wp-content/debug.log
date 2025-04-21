@@ -287,3 +287,10 @@ Stack trace:
 #5 [internal function]: IC_EPC_Tracking->fatal()
 #6 {main}
   thrown in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/general.php on line 600
+[21-Apr-2025 11:14:07 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Forms/Fields/Address/Field.php on line 73
+[21-Apr-2025 11:21:25 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Admin/Splash/SplashScreen.php on line 413
+[21-Apr-2025 11:21:47 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Forms/Fields/Address/Field.php on line 73
+[21-Apr-2025 11:23:38 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Admin/Splash/SplashScreen.php on line 431
+[21-Apr-2025 11:32:45 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Admin/Splash/SplashScreen.php on line 413
+[21-Apr-2025 11:32:50 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Admin/Splash/SplashScreen.php on line 413
+[21-Apr-2025 11:37:32 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/wpforms-lite/src/Forms/Fields/Address/Field.php on line 73
