@@ -67,6 +67,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/gold-bracelet-stack/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/announcments/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
