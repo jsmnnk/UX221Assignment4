@@ -47,7 +47,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/minimalist-gold-hoop-earrings/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/birthstone-rings/
         </loc>
     </url>
     <url>
