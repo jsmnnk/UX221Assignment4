@@ -57,6 +57,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/boho-layered-necklace-set/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gemstone-bracelet/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
